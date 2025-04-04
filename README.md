@@ -1,1 +1,2 @@
-# HospitalManagementSystem
+# Hospital Management System (C++)
+
