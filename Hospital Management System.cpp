@@ -1,6 +1,6 @@
-#include<iostream> // Including the necessary header for input and output stream
-#include<fstream>  // Including the header for file input and output operations
-#include<iomanip>  // Including the header for manipulating input and output stream formatting
+#include<iostream> 
+#include<fstream>  
+#include<iomanip>  
 
 using namespace std;
 
